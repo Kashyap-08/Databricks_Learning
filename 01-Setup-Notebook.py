@@ -6,4 +6,12 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC * Create repo in Git.
+# MAGIC * Create access token in git.
+# MAGIC * connect git with databricks.
+# MAGIC * and push your first changes
+
+# COMMAND ----------
+
 
